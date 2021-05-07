@@ -1,8 +1,7 @@
-# herokuapp
-my first app with using heroku my app this is a simple app like a chating as you see in screenshots 
+this is a simple app like a chating as you see in screenshots 
 
-i built my app thanks to the JS
-
+i built my app thanks to the JS i worked as a solo 
+ 
 i HAVE NOT THE YOUTUBE TUTORIAL 
 
 I HAVE THE DATABASE 
